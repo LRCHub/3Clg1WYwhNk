@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ビームが撃てたらいいのに",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-13T13:58:05.282420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビームが撃てたらいいのに",
+      "artist": "粗品",
+      "has_synced": false,
+      "path": "select/01_ビームが撃てたらいいのに_粗品.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビームが撃てたらいいのに",
+      "artist": "粗品",
+      "has_synced": true,
+      "path": "select/02_ビームが撃てたらいいのに_粗品.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビームが撃てたらいいのに",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_ビームが撃てたらいいのに_花譜.txt"
+    }
+  ]
+}
